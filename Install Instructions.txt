@@ -1,0 +1,8 @@
+To install:
+
+1. Download Tetris Folder
+2. Right-click on the .uproject file and select the option Generate Visual Studio project files. 
+	Once that is complete, a .sln file should appear, along with two new folders.
+3. Double-click on the same .uproject file to launch Unreal with your project. It will prompt you to rebuild - accept this.
+4. You should also do one more thing when in the Unreal editor with your map open - build the project once to ensure lighting etc. is all setup - 
+	Click on the Build icon along the top row.
